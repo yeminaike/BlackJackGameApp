@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(62, 62, 105);
+}
+
+
+h1{
+    color: white;
+    
+}
+
+
+#start-game-btn1{ 
+    color: aquamarine;
+    font-weight: 5px;
+    background-color: red;
+    list-style-type: none;
+    width: 150px;
+   height: 30px;
+   font-weight: bold;
+   border: none;
+    
+}
+
+#message-el1{
+    color: white;
+    font-weight: 500;
+}

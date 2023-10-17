@@ -1,0 +1,19 @@
+body{
+
+    background-image: linear-gradient(to right, red, blue);
+    
+}
+
+#save-btn {
+    color: red;
+    
+}
+
+#increment-btn{
+    color: green;
+}
+
+h1{
+    color: #fff;
+}
+
